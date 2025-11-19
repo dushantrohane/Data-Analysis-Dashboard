@@ -66,3 +66,6 @@ Ensured proper formatting, consistent color theme, and readable layout
 ## Dashboard link
 -<a href="https://github.com/dushantrohane/Data-Analysis-Dashboard/blob/main/Screenshot%202025-11-19%20170912.png"> Dashboard</a>
 
+Outcome
+
+This Excel dashboard provides a quick and intuitive way to monitor business performance, helping stakeholders make data-driven decisions regarding sales, restaurant partnerships, and marketing strategies.
