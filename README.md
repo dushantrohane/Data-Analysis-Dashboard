@@ -64,5 +64,5 @@ KPI cards for instant insights
 Ensured proper formatting, consistent color theme, and readable layout
 
 ## Dashboard link
--<a href="
+-<a href="https://github.com/dushantrohane/Data-Analysis-Dashboard/blob/main/Screenshot%202025-11-19%20170912.png"> Dashboard</a>
 
